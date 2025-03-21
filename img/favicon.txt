@@ -1,0 +1,9 @@
+Favicon:
+
+The website could use a favicon representing St. Damien of Molokai.
+
+To add a favicon:
+1. Create or find a small icon image (16x16 pixels or 32x32 pixels)
+2. Save it as favicon.ico in the root directory
+3. Add the following line to the <head> section of index.html:
+   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> 
